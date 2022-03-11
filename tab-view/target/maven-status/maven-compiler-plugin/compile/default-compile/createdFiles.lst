@@ -1,0 +1,16 @@
+edu\uci\ics\asterix\result\metadata\Fields.class
+edu\uci\ics\asterix\result\QueueObject.class
+edu\uci\ics\asterix\result\metadata\InternalDetails.class
+edu\uci\ics\asterix\result\Tuple.class
+edu\uci\ics\asterix\result\metadata\Derived.class
+edu\uci\ics\asterix\result\metadata\Dataset.class
+edu\uci\ics\asterix\result\ResultObject.class
+edu\uci\ics\asterix\result\metadata\IMetadataJson.class
+edu\uci\ics\asterix\AsterixUtil.class
+edu\uci\ics\asterix\result\HashObject.class
+edu\uci\ics\asterix\result\metadata\Record.class
+edu\uci\ics\asterix\api\HttpAPIClient.class
+edu\uci\ics\asterix\api\HttpAPIClient$1.class
+edu\uci\ics\asterix\api\HttpAPIClient$2.class
+edu\uci\ics\asterix\Client.class
+edu\uci\ics\asterix\result\metadata\Datatype.class
